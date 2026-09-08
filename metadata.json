@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกตู้และชั้นวางของ - โรงพยาบาลราชพิพัฒน์",
+  "description": "ระบบบันทึกและจัดการตู้และชั้นวางของ โรงพยาบาลราชพิพัฒน์ พร้อมตัวสร้างคำสั่ง AppleScript สำหรับเปิดเบราว์เซอร์อัตโนมัติ",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
